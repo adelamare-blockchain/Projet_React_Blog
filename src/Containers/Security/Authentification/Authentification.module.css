@@ -1,0 +1,42 @@
+.form {
+  width: 80%;
+  max-width: 400px;
+  background-color: #cbe4de;
+  padding: 30px;
+  margin: auto;
+  border-radius: 10px;
+  text-align: left;
+}
+
+.button {
+  border: 0;
+  padding: 10px 15px;
+  background-color: #dc8449;
+  color: white;
+  margin: 5px;
+  border-radius: 4px;
+  cursor: pointer;
+  text-decoration: none;
+}
+.button:disabled {
+  opacity: 0.3;
+  cursor: not-allowed;
+  pointer-events: none;
+}
+.button:focus,
+.button:hover {
+  background-color: #d3450d;
+  text-decoration: none;
+}
+
+.buttons {
+  text-align: right;
+}
+
+.alert {
+  padding: 10px;
+  background-color: #ffacac;
+  border: 1px, solid, #f87c7c;
+  border-radius: 4px;
+  margin-bottom: 10px;
+}

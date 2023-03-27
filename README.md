@@ -1,3 +1,9 @@
+# Project_React_Blog
+
+In this repository you will find my very first Believemy React trial for a blog app (with Axios Requests and Firebase Realtime Database) to learn the basics of the React.js framework.
+
+Dans ce repository vous trouverez mon tout premier essai React Believemy pour un blog (avec requêtes Axios et Realtime Database Firebase) afin d'apprendre les bases de React.js.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

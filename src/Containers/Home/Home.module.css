@@ -1,0 +1,13 @@
+.mainLink {
+  text-align: right;
+}
+
+.mainLink a {
+  text-decoration: none;
+  margin-right: 15px;
+  color: #d3450d;
+}
+
+.mainLink a:hover {
+  color: #d3450d;
+}

@@ -1,0 +1,13 @@
+.Header {
+  border-bottom: 1px solid silver;
+  padding: 10px 15px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

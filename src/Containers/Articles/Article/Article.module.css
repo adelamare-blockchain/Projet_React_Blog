@@ -1,0 +1,53 @@
+.lead {
+  color: rgba(0, 0, 0, 0.5);
+  margin-bottom: 15px;
+}
+
+.content {
+  text-align: left;
+  padding: 30px;
+}
+
+.author {
+  background-color: #f1f1f1;
+  padding: 15px;
+  border-radius: 5px;
+  margin-top: 15px;
+}
+
+.author span {
+  margin-left: 15px;
+  font-size: 0.9rem;
+}
+
+.button {
+  display: block;
+  margin-top: 30px;
+  text-align: right;
+}
+
+.button button {
+  border: 0;
+  padding: 10px 15px;
+  background-color: #dc8449;
+  color: white;
+  margin: 5px;
+  border-radius: 4px;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.button button:focus,
+.button button:hover {
+  background-color: #d3450d;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.badge {
+  font-size: 0.9 rem;
+  background-color: #5c5858;
+  color: white;
+  border-radius: 5px;
+  padding: 5px 10px;
+}
